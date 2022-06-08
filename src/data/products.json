@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "isim": "Karpuz",
+      "fiyat": 59.5,
+      "kdv": 18,
+      "stok": 16,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/27193046/27193046-9f33c7-1650x1650.jpg"
+    },
+    {
+      "id": "2",
+      "isim": "Ayçiçek Yağı",
+      "fiyat": 109.9,
+      "kdv": 1,
+      "stok": 25,
+      "birim": "lt",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/04110117/04110117-b0e31e-1650x1650.jpg"
+    },
+    {
+      "id": "3",
+      "isim": "Antep Fıstığı 200 G",
+      "fiyat": 33.9,
+      "kdv": 8,
+      "stok": 6,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/08089682/08089682-6901da-1650x1650.jpg"
+    },
+    {
+      "id": "4",
+      "isim": "Dana Sucuk 240 G",
+      "fiyat": 59.9,
+      "kdv": 8,
+      "stok": 16,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/14209433/14209433-7957ed-1650x1650.jpg"
+    },
+    {
+      "id": "5",
+      "isim": "Beyaz Peynir 450 G",
+      "fiyat": 46.9,
+      "kdv": 8,
+      "stok": 7,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10019126/10019126-349064-1650x1650.jpg"
+    },
+    {
+      "id": "6",
+      "isim": "Dana Kuşbaşı",
+      "fiyat": 134.45,
+      "kdv": 1,
+      "stok": 16,
+      "birim": "kg",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/25010004/25010004-1c5bd7-1650x1650.jpg"
+    },
+    {
+      "id": "7",
+      "isim": "Karpuz",
+      "fiyat": 59.5,
+      "kdv": 18,
+      "stok": 16,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/27193046/27193046-9f33c7-1650x1650.jpg"
+    },
+    {
+      "id": "8",
+      "isim": "Ayçiçek Yağı",
+      "fiyat": 109.9,
+      "kdv": 1,
+      "stok": 25,
+      "birim": "lt",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/04110117/04110117-b0e31e-1650x1650.jpg"
+    },
+    {
+      "id": "9",
+      "isim": "Antep Fıstığı 200 G",
+      "fiyat": 33.9,
+      "kdv": 8,
+      "stok": 6,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/08089682/08089682-6901da-1650x1650.jpg"
+    },
+    {
+      "id": "10",
+      "isim": "Dana Sucuk 240 G",
+      "fiyat": 59.9,
+      "kdv": 8,
+      "stok": 16,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/14209433/14209433-7957ed-1650x1650.jpg"
+    },
+    {
+      "id": "11",
+      "isim": "Beyaz Peynir 450 G",
+      "fiyat": 46.9,
+      "kdv": 8,
+      "stok": 7,
+      "birim": "adet",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10019126/10019126-349064-1650x1650.jpg"
+    },
+    {
+      "id": "12",
+      "isim": "Dana Kuşbaşı",
+      "fiyat": 134.45,
+      "kdv": 1,
+      "stok": 16,
+      "birim": "kg",
+      "gorsel": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/25010004/25010004-1c5bd7-1650x1650.jpg"
+    }
+  ]
+}
